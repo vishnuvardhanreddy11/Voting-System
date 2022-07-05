@@ -22,4 +22,4 @@ EXPLANATION :
 CONCLUSION :
 With this Voting System we can give a user a safe and good Voting environment without anyscam in count of vote.
 
-
+Programming Language Used:- C
